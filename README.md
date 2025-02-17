@@ -81,53 +81,53 @@ This project involves creating a **Smart Garbage Monitoring System** that monito
 ![alt text](src/image.png)
 Fig 1: Arduino Hardware Connections
 
-![alt text](image-1.png)
+![alt text](src/image-1.png)
 Fig 2: Arduino Code verified
 
-![alt text](image-2.png)
+![alt text](src/image-2.png)
 Fig 3: Sensed data displayed on serial monitor
 
-![alt text](image-3.png)
+![alt text](src/image-3.png)
 Fig 4: Turn on ganache
 
-![alt text](image-4.png)
+![alt text](src/image-4.png)
 Fig 5: Copy the private key 
 
-![alt text](image-5.png)
+![alt text](src/image-5.png)
 Fig 6: Turn on Metamask
 
-![alt text](image-6.png)
+![alt text](src/image-6.png)
 Fig 7: paste the private key in the metamask
 
-![alt text](image-7.png)
+![alt text](src/image-7.png)
 Fig 8: Account created
 
-![alt text](image-8.png)
+![alt text](src/image-8.png)
 Fig 9: truffle migrate
 
-![alt text](image-9.png)
+![alt text](src/image-9.png)
 Fig 10: Blocks get created
 
-![alt text](image-10.png)
+![alt text](src/image-10.png)
 Fig 11:Ethereum present in the account
 
-![alt text](image-11.png)
+![alt text](src/image-11.png)
 Fig 12:Blocks creation
 
-![alt text](image-12.png)
+![alt text](src/image-12.png)
 Fig 13:Run the web application
 
-![alt text](image-13.png)
+![alt text](src/image-13.png)
 Fig 14: Connect the account to the website running
 
-![alt text](image-14.png)
+![alt text](src/image-14.png)
 Fig 15: Metamask asks for a confirmation
 
-![alt text](image-15.png)
+![alt text](src/image-15.png)
 Fig 16: Device gets added
 
-![alt text](image-16.png)
+![alt text](src/image-16.png)
 Fig 17: Sensed data gets stored in the field chart
 
-![alt text](image-17.png)
+![alt text](src/image-17.png)
 Fig 19: SMS sent to registered mobile number
