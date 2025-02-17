@@ -77,3 +77,6 @@ This project involves creating a **Smart Garbage Monitoring System** that monito
 - **AI Integration**: Use machine learning to predict waste generation patterns and optimize collection routes.
 - **Real-time Analytics**: Implement real-time data analytics for better decision-making and resource management.
 
+## Snapshots
+![alt text](image.png)
+Fig 1: Arduino Hardware Connections
