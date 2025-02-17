@@ -130,4 +130,5 @@ Fig 16: Device gets added
 Fig 17: Sensed data gets stored in the field chart
 
 ![alt text](src/image-17.png)
+
 Fig 19: SMS sent to registered mobile number
