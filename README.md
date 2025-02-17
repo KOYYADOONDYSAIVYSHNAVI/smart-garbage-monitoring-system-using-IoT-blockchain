@@ -78,7 +78,7 @@ This project involves creating a **Smart Garbage Monitoring System** that monito
 - **Real-time Analytics**: Implement real-time data analytics for better decision-making and resource management.
 
 ## Snapshots
-![alt text](../src/image.png)
+![alt text](src/image.png)
 Fig 1: Arduino Hardware Connections
 
 ![alt text](image-1.png)
